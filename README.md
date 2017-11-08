@@ -1,0 +1,2 @@
+# GenticAlgorithmDrone
+A python implementation of a genetic algorithm to find 3 values [a, b, c] which are between 0.001 and 10000, in order to optimize a drone flight with respect to a refernce trajectory. This code will not run on you machine as some refenced classs like history.py and drone.py are intellectual property of my professor. The GA implementation is my own and you are free to do with it as you please. I provide this code with the hope that it proves useful to better understand and implement a genetic algorithm for similar cases. 
